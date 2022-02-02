@@ -1,5 +1,7 @@
 # AgileProject
 
+## points can be found as tasks on the board
+[Link to Trello Board](https://trello.com/b/5Q9eesc8/character-app-agile-board).
 
 # Character Creator App -- User Stories
 
